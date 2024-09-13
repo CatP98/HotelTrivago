@@ -40,12 +40,17 @@ Each class has a specific responsibility:
 - **RoomType**: Defines different room types using enums with associated attributes like price and capacity.
 - **Rooms**: Manages the room details and availability status for booking purposes.
 
-## Technologies Used
-- **Java**: Core implementation for the hotel management logic
+### Languages
+- **Java**
+
+### Frameworks and Libraries
 - **OOP Principles**: Encapsulation, Inheritance, Polymorphism, Abstraction
 - **Enums**: Used for defining room types (Single, Double, Suite)
 - **Collections**: ArrayLists to manage lists of guests and rooms
-- **Git**: Version control for tracking changes
+
+### Tools
+- **Git**: Version control system used for tracking changes.
+
 
 ## How to Run the Project
 1. Clone the repository:
